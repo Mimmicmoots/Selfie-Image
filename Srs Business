@@ -1,5 +1,11 @@
 <html>
 <body>
+<style>
+`	p {
+		text-font=calabri;
+		text-color=blue;
+		border-color=purple;
+	}
 	<h2>Why I dyed it</h2>
 	<p>On Saturday March Fifth I decided to make a decision for myself and how I see myself. I dyed my hair a pink/red. I didn't nessesarily do it because someone else was, but because I wanted to.
 		There are people all over the globe who want to change the way they dress or the way they are in society but the fear of what others think is stopping them. Based on what others want them
